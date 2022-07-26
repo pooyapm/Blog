@@ -1,0 +1,9 @@
+baseURL = 'https://pooyapm.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-PaperMod'
+relativeURLs = true
+[params.assets]
+disableFingerprinting = true
+
+

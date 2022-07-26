@@ -1,0 +1,4 @@
+[submodule "pooyamozzemi/public"]
+	path = pooyamozzemi/public
+	url = https://github.com/pooyapm/pooyapm.github.io.git
+	branch = main
