@@ -5,22 +5,33 @@ theme = 'hugo-PaperMod'
 relativeURLs = true
 [params.assets]
 disableFingerprinting = true
+
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
+identifier = "Technology"
+name = "Technology"
+url = "/Technology/"
 weight = 10
 
 [[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
+identifier = "Skills"
+name = "Skills"
+url = "/Skills/"
 weight = 20
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
+identifier = "Business Management"
+name = "Business Management"
+url = "/Business Management/"
 weight = 30
 
+[[menu.main]]
+identifier = "Product Management"
+name = "Product Management"
+url = "/Product Management/"
+weight = 40
 
+[[menu.main]]
+identifier = "Economy"
+name = "Economy"
+url = "/Economy/"
+weight = 50
