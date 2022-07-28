@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = "Pooya Mozzemi' Blog"
 theme = 'hugo-PaperMod'
 relativeURLs = true
+[params]
+env = "production"
 [params.assets]
 disableFingerprinting = true
 
@@ -40,4 +42,4 @@ weight = 50
 identifier = "About"
 name = "About"
 url = "/About/"
-weight = 50
+weight = 60
