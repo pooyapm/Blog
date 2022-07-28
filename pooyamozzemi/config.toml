@@ -1,6 +1,6 @@
 baseURL = 'https://pooyapm.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pooya Mozzemi' Blog'
 theme = 'hugo-PaperMod'
 relativeURLs = true
 [params.assets]
@@ -34,4 +34,10 @@ weight = 40
 identifier = "Economy"
 name = "Economy"
 url = "/Economy/"
+weight = 50
+
+[[menu.main]]
+identifier = "About"
+name = "About"
+url = "/About/"
 weight = 50
