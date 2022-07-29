@@ -15,9 +15,9 @@ url = "/Technology/"
 weight = 10
 
 [[menu.main]]
-identifier = "Skills"
-name = "Skills"
-url = "/Skills/"
+identifier = "Soft Skills"
+name = "Soft Skills"
+url = "/Soft Skills/"
 weight = 20
 
 [[menu.main]]
@@ -39,7 +39,7 @@ url = "/Economy/"
 weight = 50
 
 [[menu.main]]
-identifier = "About"
+identifier = "About Me"
 name = "About"
 url = "/About/"
 weight = 60
