@@ -40,6 +40,6 @@ weight = 50
 
 [[menu.main]]
 identifier = "About Me"
-name = "About"
-url = "/About/"
+name = "About Me"
+url = "/About Me/"
 weight = 60
