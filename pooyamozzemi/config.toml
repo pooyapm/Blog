@@ -21,16 +21,16 @@ url = "/Soft Skills/"
 weight = 20
 
 [[menu.main]]
-identifier = "Business & Product Management"
-name = "Business & Product Management"
-url = "/Business & Product Management/"
+identifier = "Business Management"
+name = "Business Management"
+url = "/Business Management/"
 weight = 30
 
 [[menu.main]]
-identifier = "Economy"
-name = "Economy"
-url = "/Economy/"
-weight = 50
+identifier = "Product Management"
+name = "Product Management"
+url = "/Product Management/"
+weight = 40
 
 [[menu.main]]
 identifier = "About Me"
