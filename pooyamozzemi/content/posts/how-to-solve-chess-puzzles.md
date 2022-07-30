@@ -24,4 +24,4 @@ objectives
 
 small patterns and building blocks
 
-![The first move](/assets/images/1.png)
+![The first move](/static/images/1.png)
