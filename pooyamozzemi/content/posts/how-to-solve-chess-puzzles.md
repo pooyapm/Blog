@@ -24,4 +24,6 @@ objectives
 
 small patterns and building blocks
 
+<img src="/images/1.jpeg" alt="first move test" width="200"/>
+
 ![The first move](/images/1.jpeg)
