@@ -1,15 +1,11 @@
 ---
-title: "A Marketing Strategy Plan Zalando"
+title: "A Marketing Strategy Plan: Zalando"
 date: 2022-07-31T12:31:18+02:00
 ---
 
-D16896-19-06
+# Section 1: Analysis
 
-
-
-Section 1: Analysis
-
-1.1 Context
+## 1.1 Context
 
 Zalando is Europe's leading online fashion platform, selling all fashion products in all assortments from over 3000+ international and local brands as well as its own private brand products. It is currently operating in 17 european countries. It was established in 2008 in Berlin as a pioneering e-commerce shoe selling platform. 
 
@@ -38,7 +34,7 @@ Local and international competitors
 And as mentioned in their sustainability strategy of the company, all the people in the world and even the next generations!
 
 
-1.2 Marketing fit with business and corporate strategy
+## 1.2 Marketing fit with business and corporate strategy
 
 Zalando’s online platform is at the core of their business. 
 
@@ -72,7 +68,7 @@ Ansoff’s growth strategies framework can show that Zalando could seek to penet
 
 Zalando believes the online retail e-commerce fashion is at its growth phase of product life cycle, so it means that they believe there is more market share that can be captured and more competitors still might get into the competition.
 
-1.3 Environmental Analysis
+## 1.3 Environmental Analysis
 
 The micro and macro environment should be continuously analyzed and be used as input to marketing strategic plan. 
 
@@ -101,14 +97,14 @@ The strength of competitive rivalry: Amazon has all resources to position themse
 Critical success factors seem to be ease of use of platform, fast delivery, easy and free returns, partnership with as many different brands as possible. 
 
 
-1.4 Customer Insights
+## 1.4 Customer Insights
 
 The business is both business-to-customer and business-to-business. 
 
 The retail business-to-customer part of Zalando offers different products from international well known brands to local brands in different assortments, to different customers in all ages, and since it is operating mainly in western europe we can assume the market is predominantly customized for these cultural values. The consumers are probably internet savvy and prefer online shopping, and interested in the core value that Zalando offers which is the convenience of free and fast delivery and return.  
 
 Consumer buying decision process is strongly related to the core business of Zalando. The five step buying decision model consists of problem recognition, information search, evaluation of alternatives, purchase decision and post purchase behaviour.  One of the main reasons that customers may select the Zalando platform for their shopping is the ability to instantly compare between different alternatives. They can also instantly get a lot of information about different products, review other customers' feedback which helps them to make the decision to buy an item on the platform. Another important factor is the after purchase behaviour, that they can provide ratings and feedback on the platform on their level of satisfaction, and if they are not happy with the buy they can simply return the item easily and free of charge. So, these core competences of Zalando can influence the customers’ decision process. Also, if strong relation and loyalty exists between Zalando and customers and customers become regular re-visitors, then their personal data such as payment and delivery methods and customer credibility can be used to make the feeling of shopping even more smoother. 
-1.5 Capturing Marketing Insights
+## 1.5 Capturing Marketing Insights
 
 The main data to capture to keep the current customer base in operating countries and foster loyalty can be directly captured from the platform. Other types of data could be governments reports on economic growth, inflation rate, etc.  Another data can be collected from social media, stylists and influencers’ opinions and also market research either done by internal resources or expert consultancy firms. Market research is especially important to identify how trends shift with demographics and fashion trends.
 
@@ -182,9 +178,9 @@ Implications of the given scenario for the analysis
 This scenario is all good news for Zalando as it is established to help people do their clothing shopping online. Zalando had identified that fashion e-commerce is in a growth phase product life cycle and they expected more and more people to use such services in future. This scenario has made this transition to happen faster and earlier than expected and perhaps taking Zalando by surprise. The further implications of this scenario on their business will be discussed in coming sections. 
 
 
-Section 2: Planning
+# Section 2: Planning
 
-2.1 Segmentation
+## 2.1 Segmentation
 
 Important consumer based segmentation factors are geographic, demographic, social and psychographic dimensions. However, since Zalando has a great customer data available, they can take even more advanced approaches. They can combine attitudes of the consumers from the previous shoppings they had and create even narrower and more effective segments.
 
@@ -208,7 +204,7 @@ Online shopping
 Zalando has never operated in Portugal and only has access to public data, so it has to rely on the generic segmentation criterias at the beginning. However, it can reuse some trends found in countries with similar cultures and attitudes. For example, data gained in Spain can be used to create narrower segments. Portugees resonate with Spanish a lot!
 
 
-2.2 Targeting
+## 2.2 Targeting
 
 For service business the target segment is: small-mid size brands, located in one country and operating in other countries, have difficulties with logistics, (medium to large order size/brand size), do not have a strong customer base and data for marketing. The criterias for segment targeting are:  
 
@@ -225,7 +221,7 @@ Age between 24-55, currently employed professional, mid level income, interested
 
 For new features as mentioned before they can rely on the current customer base and provide the offering for everyone already using the platform.
 
-2.3 Branding and Positioning
+## 2.3 Branding and Positioning
 
 Brand is the unique image and perception that Zalando wants its customers to remember about them. What Zalando wants is that everytime a person wants to buy a pair of shoes, they remember Zalando as the first option as they have the experience of easy shopping, fast delivery and free return. If such an image is built in customers' minds then the customers will be loyal and keep returning to Zalando for shopping which guarantees a constant stream of revenue.
 
@@ -267,7 +263,7 @@ Your personal stylist, true feeling of happiness!
 
 For this new feature, perhaps brand revitalization and reinforcement might be needed since it is new and customers are not aware of it. 
 
-2.4 Selection of Marketing Strategy
+## 2.4 Selection of Marketing Strategy
 
 Zalando is mostly operating in slow economic growth countries and the product life cycle is considered to be at its growth phase (according to Zalando).  
 
@@ -283,9 +279,9 @@ With the given scenario we can expect to have more potential customers in the ne
 One of the reasons for such a trend shift during these times is that people have been forced to try these online services and now they have experienced the comfort and they can trust the online payment systems. So, for Zalando to be able to capture more market share they have to be bolder in their differentiation factors in branding and positioning. So they have to emphasize more and more on faster delivery and free returns that other competitors may not have the resources to promise.
 
 
-Section 3: Implementation
+# Section 3: Implementation
 
-3.1 Integrated Marketing Mix
+## 3.1 Integrated Marketing Mix
 
 Integrated marketing mix deals with all encounters of the customers with different parts of the business and tries to build up the desired perception of the business and brand and differentiated position in the customers' (potential customers) minds. 
 
@@ -305,7 +301,7 @@ SERVQUAL five determinants of service quality are reliability, responsiveness, a
 
 Here our focus will also be on the platform mainly as Zalando’s core business.
 
-3.2 Product
+## 3.2 Product
 
 The product relevant for integrated marketing mix here is the platform and product package. 
 
@@ -314,14 +310,14 @@ packaging and labelling can be also considered as products in this context. Zala
 
 The platform language can have a lot of importance especially in Europe with many different languages. So, they can add portugese language for the platform before entering Portugal can help them for mass adoption significantly. 
 
-3.3 Price
+## 3.3 Price
 
 All services offered to customers are free. As a strong customer base gives a huge competitive advantage to Zalando and also prohibits new entrants to the competition it is wise to continue with this strategy and also offer the new features of AI stylist and virtual showroom to customers for free just to increase market share and offer services in Portugal for free to let more people try the service out and build loyalty.
 
 Competitors also provide the platform services for free to attract more customers. So, according to Kotler and Keller six steps of setting the price it is also justified to provide free services to address the competition. 
 
 
-3.4 Place
+## 3.4 Place
 
 Zalando pursues omnichannel marketing, the online platform. 
 
@@ -331,7 +327,7 @@ The whole value chain channels are important for marketing integrated mix. Suppl
 
 Specifically for Zalando we know that fast delivery and free return are the differentiators. It is crucial for marketers to make sure inventories, warehouses, transport and delivery channels work in tandem for fast delivery and return to happen as smoothly as possible. As Zalando enters Portugal, they have to prepare the infrastructure in such a way that from first customers the differentiating image of fast delivery and good packaging and free return sticks with customers.
 
-3.5 Promotion
+## 3.5 Promotion
 
 Zalando uses different forms of promotion channels and media communications. This includes heavy social media appearance, bloggers, models, paper and digital magazines, partner brands discounts, coupons and many other forms. 
 
@@ -341,19 +337,19 @@ Speciality for the new features, the innovation adoption curve is very important
 
 The same is true for entering Portugal. Local models and influencers as well as celebrities can be employed at the initial phase of introduction to increase the knowledge and awareness of this platform entering the market.
 
-3.6 People
+## 3.6 People
 
 All people that face customers such as delivery staff and customer support might be very well trained to build up the image that Zalando desires. Delivery staff specially have a very important impact on the perception of people so they must be very well dressed and polite and behave to the highest standard. Customer support must handle complaints professionally and politely to keep the unsatisfied customers returning back for shopping to Zalando.
 
 
-3.7 Process
+## 3.7 Process
 
 Easy use of online retail platforms is crucial for successful business such as Zalando. Customers’ interaction with the service is through the platform so it is very important that the processes done on the platform be as easy and smooth as possible. These processes include navigation, search and comparison, add to box, payment and return processes. 
 
 Specially providing personalized offers to avoid confusing customers and delaying the buy, having different payment methods and easy return process are very important. Easy and free return is a differentiator factor for Zalando so they have to make sure the process is clear like having the printed return address in the package helps to create a unique image in customers minds.
 
 
-3.8 Physical Evidence
+## 3.8 Physical Evidence
 
 The physical evidence that customers encounter is the platform’s website and product packaging as well as delivery staff.  So, Zalando has to make sure that the website is professionally designed. Also, packaging must be well designed and safe to avoid damages on transportation. 
 
@@ -364,9 +360,9 @@ As the trend shows an increase in ecommerce and online shopping, it surely incre
 In the long run, they need to prepare the infrastructure to handle this increase in demand to continue keeping the image of fast delivery and free return. They have to employ different promotion campaigns to take advantage of this trend shift and increase their market share for example by providing coupons or special discounts for first time buyers or bonus for recommending to friends.
 
 
-Section 4: Feedback and Control
+# Section 4: Feedback and Control
 
-4.1 Control of Strategic Marketing Activities
+## 4.1 Control of Strategic Marketing Activities
 
 Zalando goal is to engage more customers to use the new features and increase awareness in Portugal and onboard more customers. Different strategic and operational metrics and control plans could be implemented to track the success in reaching these goals.
 
