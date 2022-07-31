@@ -20,18 +20,18 @@ The best way to achieve growth and take digitization forward is through a platfo
 They have the intention to increase market share in the growing and more digitized fashion industry.  
 
 One possible growth strategy could be formulated as follows:
-In 17 european countries with operating business, Zalando as market leader tries to keep market share and focus on fostering customer relation and loyalty through more personalized offerings
-In operating countries engage more brand partners with new service based businesses
-Penetrate other european countries in which the business is not operational: Portugal, Greece, Lithuania, Latvia and Estonia
+- In 17 european countries with operating business, Zalando as market leader tries to keep market share and focus on fostering customer relation and loyalty through more personalized offerings
+- In operating countries engage more brand partners with new service based businesses
+- Penetrate other european countries in which the business is not operational: Portugal, Greece, Lithuania, Latvia and Estonia
 
 Zalando has many stakeholders:
-The founders and owners of Zaalando
-Customers from around the continent 
-Designers working with Zalando
-3000+ brands partnered with Zalando or selling their stock on Zalando’s platform
-Employees 
-Local and international competitors
-And as mentioned in their sustainability strategy of the company, all the people in the world and even the next generations!
+- The founders and owners of Zaalando
+- Customers from around the continent 
+- Designers working with Zalando
+- 3000+ brands partnered with Zalando or selling their stock on Zalando’s platform
+- Employees 
+- Local and international competitors
+- And as mentioned in their sustainability strategy of the company, all the people in the world and even the next generations!
 
 
 ## 1.2 Marketing fit with business and corporate strategy
@@ -43,23 +43,19 @@ The organization is large and IT and logistics are the core competence of the wh
 SWOT analysis can confirm the company’s favorable position.
 
 
-Strength
-Strong customer base
-Huge amount of customer data, helping to identify trends and personalize offerings, advicing the suppliers
-Very well established logistics system and warehouses across europe
-Established partnerships and relation with international and local brands 
-Easy to navigate platform, and strong IT team 
-Strong capital and resources available for growth
-Weaknesses
-Zalando’s private brand is not established so far 
-Opportunities
-Only operational in 17 countries, there is room for growth into 44 countries which the logistics and infrastructure and brands are already established
-Growth opportunity to new geographical regions for example north america  
-Growing digitized fashion industry in Europe
-Threats
-New local businesses which know the local taste of customers better
-Investments by large competitors to compete with Zalando in fashion area
-Small businesses targeting Zalando’s different business fields 
+|Strength | Weaknesses |
+|- Strong customer base |- Zalando’s private brand is not established so far
+|- Huge amount of customer data, helping to identify trends and personalize offerings, advicing the suppliers|
+|- Very well established logistics system and warehouses across europe|
+|- Established partnerships and relation with international and local brands| 
+|- Easy to navigate platform, and strong IT team|
+|- Strong capital and resources available for growth|
+|-----------------|-----------------------|
+|Opportunities | Threats|
+- Only operational in 17 countries, there is room for growth into 44 countries which the logistics and infrastructure and brands are already established |- New local businesses which know the local taste of customers better|
+- Growth opportunity to new geographical regions for example north america| - Investments by large competitors to compete with Zalando in fashion area|
+- Growing digitized fashion industry in Europe|- Small businesses targeting Zalando’s different business fields|
+-------------------------|----------------|
 
 
 Porter’s generic strategy analysis is that Zalando has differentiated values in the customer's minds with free of charge delivery and returns and possibility to compare the price and quality of different brands. 
