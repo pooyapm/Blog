@@ -43,7 +43,7 @@ The organization is large and IT and logistics are the core competence of the wh
 SWOT analysis can confirm the company’s favorable position.
 
 <figure>
-  <img src="/images/SWOT.PNG" alt="SWOT analysis" style="margin-left: 25%; width:50%">
+  <img src="/images/SWOT.PNG" alt="SWOT analysis" style="margin-left: 15%; width:70%">
   <figcaption style="text-align:center">SWOT analysis.</figcaption>
 </figure>
 
@@ -125,7 +125,10 @@ Government macroeconomic reports
 Marketing research
 Consumer 
 
-
+<figure>
+  <img src="/images/marketing-insight.PNG" alt="Marketing insights" style="margin-left: 15%; width:70%">
+  <figcaption style="text-align:center">Marketing insights.</figcaption>
+</figure>
 
 Zalando can use the ‘Market-Buildup’ method to estimate business buyers for its new services. Fortunately it has already the list of potential buyers as they are already using the platform. Then Zalando can estimate their sales and use of their own logistics and from there prioritize the list of all potential buyers.
 
@@ -135,28 +138,10 @@ We assume based on the information collected the corporate strategy used as inpu
 
 The new features to be introduced are more AI based personalized offerings and automated style advisor as well as virtual at home showrooms.
 
-
-
-Country
-GDP per Capita
-Population
-Estonia
-39544
-1330299
-Portugal
-36128
-10,175,378
-Lithuania
-41288
-2690235
-Latvia
-32946
-1870386
-Croatia
-30222
-4,086,308
-
-
+<figure>
+  <img src="/images/GDP.PNG" alt="Marketing insights" style="margin-left: 25%; width:50%">
+  <figcaption style="text-align:center">GDP per capita for European countries.</figcaption>
+</figure>
 
 Implications of the given scenario for the analysis
 
@@ -229,7 +214,17 @@ Transferable: it is easily transferable, for example in this case just with mino
 Adaptable: it is adaptable in the sense that easily new brands can be onboarded, enter new segments, add new categories, etc. 
 Protectable: some elements of the brand are legally protectable such as the logo, private labels and trademarks. 
 
+<figure>
+  <img src="/images/competitor-analysis-1.PNG" alt="Competitor analysis" style="margin-left: 15%; width:70%">
+  <figcaption style="text-align:center">Competitor analysis based on two features. The first feature is the
+  specializing in clothing. The second feature is free/easy return.</figcaption>
+</figure>
 
+<figure>
+  <img src="/images/competitor-analysis-2.PNG" alt="cmpetitor analysis 2" style="margin-left: 15%; width:70%">
+  <figcaption style="text-align:center">Competitor analysis based on two features. The first feature is the
+  specializing in clothing. The second feature is fast delivery.</figcaption>
+</figure>
 
 Two perceptual maps are introduced here. One shows easy/free return versus specialized in clothing and fashion. The other one is fast delivery versus specialized in clothing. We can see tha Zalando can differentiate itself from the competition :
 Fast delivery 
