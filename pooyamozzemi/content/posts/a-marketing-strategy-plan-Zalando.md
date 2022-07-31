@@ -42,22 +42,10 @@ The organization is large and IT and logistics are the core competence of the wh
 
 SWOT analysis can confirm the company’s favorable position.
 
-
-|Strength | Weaknesses |
-|---------|------------|
-|<ul>
-	<li>Strong customer base Zalando’s private brand is not established so far</li>
-	<li>Huge amount of customer data, helping to identify trends and personalize offerings, advicing the suppliers</li>|Zalando’s private brand is not established so far|
-	<li>Very well established logistics system and warehouses across europe</li>
- </ul>
-
-|Opportunities | Threats|
-|-----------------|-----------------------|
-|Only operational in 17 countries, there is room for growth into 44 countries which the logistics and infrastructure and brands are already established |New local businesses which know the local taste of customers better|
-|Growth opportunity to new geographical regions for example north america|Investments by large competitors to compete with Zalando in fashion area|
-|Growing digitized fashion industry in Europe|Small businesses targeting Zalando’s different business fields|
-
-
+<figure>
+  <img src="/images/SWOT.PNG" alt="SWOT analysis" style="margin-left: 25%; width:50%">
+  <figcaption style="text-align:center">SWOT analysis.</figcaption>
+</figure>
 
 Porter’s generic strategy analysis is that Zalando has differentiated values in the customer's minds with free of charge delivery and returns and possibility to compare the price and quality of different brands. 
 
