@@ -45,12 +45,8 @@ SWOT analysis can confirm the company’s favorable position.
 
 |Strength | Weaknesses |
 |---------|------------|
-|Strong customer base |Zalando’s private brand is not established so far|
-|Huge amount of customer data, helping to identify trends and personalize offerings, advicing the suppliers||
-|Very well established logistics system and warehouses across europe||
-|Established partnerships and relation with international and local brands|| 
-|Easy to navigate platform, and strong IT team||
-|Strong capital and resources available for growth||
+|<ul><li>Strong customer base Zalando’s private brand is not established so far</li><li>Huge amount of customer data, helping to identify trends and personalize offerings, advicing the suppliers</li></ul>|Zalando’s private brand is not established so far|
+
 
 |Opportunities | Threats|
 |-----------------|-----------------------|
