@@ -51,12 +51,13 @@ SWOT analysis can confirm the company’s favorable position.
 |Established partnerships and relation with international and local brands|| 
 |Easy to navigate platform, and strong IT team||
 |Strong capital and resources available for growth||
-|-----------------|-----------------------|
+
 |Opportunities | Threats|
-Only operational in 17 countries, there is room for growth into 44 countries which the logistics and infrastructure and brands are already established |New local businesses which know the local taste of customers better|
-Growth opportunity to new geographical regions for example north america|Investments by large competitors to compete with Zalando in fashion area|
-Growing digitized fashion industry in Europe|Small businesses targeting Zalando’s different business fields|
--------------------------|----------------|
+|-----------------|-----------------------|
+|Only operational in 17 countries, there is room for growth into 44 countries which the logistics and infrastructure and brands are already established |New local businesses which know the local taste of customers better|
+|Growth opportunity to new geographical regions for example north america|Investments by large competitors to compete with Zalando in fashion area|
+|Growing digitized fashion industry in Europe|Small businesses targeting Zalando’s different business fields|
+
 
 
 Porter’s generic strategy analysis is that Zalando has differentiated values in the customer's minds with free of charge delivery and returns and possibility to compare the price and quality of different brands. 
