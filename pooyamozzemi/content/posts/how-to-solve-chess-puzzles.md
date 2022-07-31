@@ -26,7 +26,8 @@ small patterns and building blocks
 
 <div style="text-align: center">
 	<figure>
-	  <img src="/images/1.jpeg" alt="First move" style="margin-left: 200px; width:70%">
+	  <img src="/images/1.jpeg" alt="First move" style="margin-left: 20%; width:50%">
+	  <figcaption>The first move.</figcaption>
 	</figure>
 </div>
 
