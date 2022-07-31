@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = "Pooya Mozzemi' Blog"
 theme = 'hugo-PaperMod'
 relativeURLs = true
+[markup.goldmark.renderer]
+unsafe= true
 [params]
 env = "production"
 [params.assets]
