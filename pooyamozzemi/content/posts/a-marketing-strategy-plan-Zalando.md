@@ -43,7 +43,7 @@ The organization is large and IT and logistics are the core competence of the wh
 SWOT analysis can confirm the company’s favorable position.
 
 <figure>
-  <img src="/images/SWOT.PNG" alt="SWOT analysis" style="margin-left: 15%; width:70%">
+  <img src="/images/SWOT.PNG" alt="SWOT analysis" style="margin-left: 5%; width:90%">
   <figcaption style="text-align:center">SWOT analysis.</figcaption>
 </figure>
 
@@ -92,41 +92,10 @@ Consumer buying decision process is strongly related to the core business of Zal
 ## 1.5 Capturing Marketing Insights
 
 The main data to capture to keep the current customer base in operating countries and foster loyalty can be directly captured from the platform. Other types of data could be governments reports on economic growth, inflation rate, etc.  Another data can be collected from social media, stylists and influencers’ opinions and also market research either done by internal resources or expert consultancy firms. Market research is especially important to identify how trends shift with demographics and fashion trends.
-
-
-
-Inner
-Immediate Macro (Micro)
-Macro
-Internal
-Sales figures
-Site visits
-Returning customers
-Non returning customers
-Consumers buying trends using big data analysis
-Delivery time
-Returning time
-Total transaction time
-Time spent on website
-Supplier sales through other channels
-Influencers opinion
-Stylists opinion
-
-
-Industry sales in current markets
-Industry sales in other markets
-External
-
-
-Potential supplier’s opinion
-Potential influencer’s opinion
-Potential stylist’s opinion
-Government macroeconomic reports
-Marketing research
-Consumer 
+ 
 
 <figure>
-  <img src="/images/marketing-insight.PNG" alt="Marketing insights" style="margin-left: 15%; width:70%">
+  <img src="/images/marketing-insight.PNG" alt="Marketing insights" style="margin-left: 5%; width:90%">
   <figcaption style="text-align:center">Marketing insights.</figcaption>
 </figure>
 
