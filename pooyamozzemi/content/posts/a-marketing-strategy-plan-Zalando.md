@@ -45,17 +45,17 @@ SWOT analysis can confirm the company’s favorable position.
 
 |Strength | Weaknesses |
 |---------|------------|
-|- Strong customer base |- Zalando’s private brand is not established so far|
-|- Huge amount of customer data, helping to identify trends and personalize offerings, advicing the suppliers||
-|- Very well established logistics system and warehouses across europe||
-|- Established partnerships and relation with international and local brands|| 
-|- Easy to navigate platform, and strong IT team||
-|- Strong capital and resources available for growth||
+|Strong customer base |Zalando’s private brand is not established so far|
+|Huge amount of customer data, helping to identify trends and personalize offerings, advicing the suppliers||
+|Very well established logistics system and warehouses across europe||
+|Established partnerships and relation with international and local brands|| 
+|Easy to navigate platform, and strong IT team||
+|Strong capital and resources available for growth||
 |-----------------|-----------------------|
 |Opportunities | Threats|
-- Only operational in 17 countries, there is room for growth into 44 countries which the logistics and infrastructure and brands are already established |- New local businesses which know the local taste of customers better|
-- Growth opportunity to new geographical regions for example north america| - Investments by large competitors to compete with Zalando in fashion area|
-- Growing digitized fashion industry in Europe|- Small businesses targeting Zalando’s different business fields|
+Only operational in 17 countries, there is room for growth into 44 countries which the logistics and infrastructure and brands are already established |New local businesses which know the local taste of customers better|
+Growth opportunity to new geographical regions for example north america|Investments by large competitors to compete with Zalando in fashion area|
+Growing digitized fashion industry in Europe|Small businesses targeting Zalando’s different business fields|
 -------------------------|----------------|
 
 
