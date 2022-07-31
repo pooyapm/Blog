@@ -24,10 +24,9 @@ objectives
 
 small patterns and building blocks
 
-<div style="text-align:center">
+<div style="text-align: center">
 	<figure>
-	  <img src="/images/1.jpeg" alt="First move" style="text-align:center; width:70%">
-	  <figcaption>The first move.</figcaption>
+	  <img src="/images/1.jpeg" alt="First move" style="width:70%">
 	</figure>
 </div>
 
