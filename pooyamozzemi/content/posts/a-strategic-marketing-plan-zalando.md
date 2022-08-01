@@ -1,10 +1,6 @@
 ---
-title: "A Strategic Marketing Plan Zalando"
+title: "A Strategic Marketing Plan: Zalando"
 date: 2022-08-01T20:11:53+02:00
----
----
-title: "A Marketing Strategy Plan: Zalando"
-date: 2022-07-31T12:31:18+02:00
 ---
 
 # Section 1: Analysis
@@ -63,17 +59,17 @@ The micro and macro environment should be continuously analyzed and be used as i
 
 PESTLE analysis tool can be used to capture environmental analysis.
 
-The *political* environment: as Zalando is also operating in the UK the most recent major political shift is Brexit and its legal impacts on business like new tariffs and rules on import and export which might be considered in future plans. 
+The **political** environment: as Zalando is also operating in the UK the most recent major political shift is Brexit and its legal impacts on business like new tariffs and rules on import and export which might be considered in future plans. 
 
-The *economic* environment: COVID-19 pandemic impacted the whole world including european countries than Zalando is operating in. A thorough analysis on the employment rate and GDP growth for all countries must be taken into account to capture major trend shifts. Apart from pandemic impacts, most of European countries experiencing slow economic growth (GDP growth od 1.5%-3%)
+The **economic** environment: COVID-19 pandemic impacted the whole world including european countries than Zalando is operating in. A thorough analysis on the employment rate and GDP growth for all countries must be taken into account to capture major trend shifts. Apart from pandemic impacts, most of European countries experiencing slow economic growth (GDP growth od 1.5%-3%)
 
-The *sociocultural and demographic* environment: on average most of Europe's population is between 24-55. Most Europe’s population has internet access and mobile internet access. Culturally it can be said that all european countries fall into the same cultural and religious cluster.  
+The **sociocultural and demographic** environment: on average most of Europe's population is between 24-55. Most Europe’s population has internet access and mobile internet access. Culturally it can be said that all european countries fall into the same cultural and religious cluster.  
 
-The *technological* environment: new advancements made in the areas of Artificial Intelligence and Machine Learning as well as Big data, virtual reality opens up the doors for Zalando to  offer more personalized product offerings as well as virtual at home showroom experience. 
+The **technological** environment: new advancements made in the areas of Artificial Intelligence and Machine Learning as well as Big data, virtual reality opens up the doors for Zalando to  offer more personalized product offerings as well as virtual at home showroom experience. 
 
-The *legal* environment: since Zalando deals with customer’s online data, GDPR legal impacts must be considered. 
+The **legal** environment: since Zalando deals with customer’s online data, GDPR legal impacts must be considered. 
 
-The *natural (environmental)* environment: On the platform side perhaps it has not much impact on Zalando, but in terms of the private labels or the partner brands they must take into account the more environmentally aware customers. 
+The **natural (environmental)** environment: On the platform side perhaps it has not much impact on Zalando, but in terms of the private labels or the partner brands they must take into account the more environmentally aware customers. 
 
 To use Porter’s five forces, we know that the online retail platform is at the core of Zalando’s business which other services are based around. So, we apply analysis on this platform.
 
@@ -107,9 +103,9 @@ Zalando can use the ‘Market-Buildup’ method to estimate business buyers for 
 
 Multiple-factor-index can be used to estimate area market potential for the new countries they want to enter. Such an index assigns different factors different weights. The factors useful in Zalando’s case might be the disposable income, e-commercial sales and e-commerce fashion sales in the region. 
 
-*We assume based on the information collected the corporate strategy used as input for strategic marketing plan is to keep the leadership position in currently operating countries in e-commerce retail apparel business as well as geographical expansion to portugal for their online retail platform.* 
+**We assume based on the information collected the corporate strategy used as input for strategic marketing plan is to keep the leadership position in currently operating countries in e-commerce retail apparel business as well as geographical expansion to portugal for their online retail platform.** 
 
-*The new features to be introduced are more AI based personalized offerings and automated style advisor as well as virtual at home showrooms.*
+**The new features to be introduced are more AI based personalized offerings and automated style advisor as well as virtual at home showrooms.**
 
 <figure>
   <img src="/images/GDP.PNG" alt="Marketing insights" style="margin-left: 25%; width:50%">
@@ -133,16 +129,16 @@ For new features marketing, they can rely on the current customers which already
 
 Segmentation for new markets they want to enter (Portugal):
 - Demographic
--- Age
--- Income
+  - Age
+  - Income
 - Working class
 - Product category
---Luxury
---Mainstream
---local
+  - Luxury
+  - Mainstream
+  - Local
 -Social
---Internet savvy
---Online shopping
+  - Internet savvy
+  - Online shopping
 
 Zalando has never operated in Portugal and only has access to public data, so it has to rely on the generic segmentation criterias at the beginning. However, it can reuse some trends found in countries with similar cultures and attitudes. For example, data gained in Spain can be used to create narrower segments. Portugees resonate with Spanish a lot!
 
@@ -240,13 +236,13 @@ Integrated marketing mix deals with all encounters of the customers with differe
 
 Like before the focus is on the online retail platform. The corporate strategy goal was: 
 - In currently operating countries with above 5% GDP growth 
---Keeping the leader position
+  - Keeping the leader position
 - In currently operating countries with slow economic growth 
---Add new features
---Enter new segments such as new B2B transport service offering (not the scope of this strategic marketing plan) 
--In new entering countries (Portugal)
---Create and raise awareness of the service existence
---Marketing focus on competitive advantage of the service, easy order, payment, delivery and return, fast and home delivery
+  - Add new features
+  - Enter new segments such as new B2B transport service offering (not the scope of this strategic marketing plan) 
+- In new entering countries (Portugal)
+  - Create and raise awareness of the service existence
+  - Marketing focus on competitive advantage of the service, easy order, payment, delivery and return, fast and home delivery
 
 Zalando mainly offers online retail service to consumers. Services are different from products as they are intangible, perishable, inseparable and variable. Zalando falls into the service category of tangible goods with accompanying service as it has to deliver the goods from other brands through their service to customers. 
 
