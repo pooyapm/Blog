@@ -1,4 +1,8 @@
 ---
+title: "A Strategic Marketing Plan Zalando"
+date: 2022-08-01T20:11:53+02:00
+---
+---
 title: "A Marketing Strategy Plan: Zalando"
 date: 2022-07-31T12:31:18+02:00
 ---
@@ -59,25 +63,25 @@ The micro and macro environment should be continuously analyzed and be used as i
 
 PESTLE analysis tool can be used to capture environmental analysis.
 
-The political environment: as Zalando is also operating in the UK the most recent major political shift is Brexit and its legal impacts on business like new tariffs and rules on import and export which might be considered in future plans. 
+The *political* environment: as Zalando is also operating in the UK the most recent major political shift is Brexit and its legal impacts on business like new tariffs and rules on import and export which might be considered in future plans. 
 
-The economic environment: COVID-19 pandemic impacted the whole world including european countries than Zalando is operating in. A thorough analysis on the employment rate and GDP growth for all countries must be taken into account to capture major trend shifts. Apart from pandemic impacts, most of European countries experiencing slow economic growth (GDP growth od 1.5%-3%)
+The *economic* environment: COVID-19 pandemic impacted the whole world including european countries than Zalando is operating in. A thorough analysis on the employment rate and GDP growth for all countries must be taken into account to capture major trend shifts. Apart from pandemic impacts, most of European countries experiencing slow economic growth (GDP growth od 1.5%-3%)
 
-The sociocultural and demographic environment: on average most of Europe's population is between 24-55. Most Europe’s population has internet access and mobile internet access. Culturally it can be said that all european countries fall into the same cultural and religious cluster.  
+The *sociocultural and demographic* environment: on average most of Europe's population is between 24-55. Most Europe’s population has internet access and mobile internet access. Culturally it can be said that all european countries fall into the same cultural and religious cluster.  
 
-The technological environment: new advancements made in the areas of Artificial Intelligence and Machine Learning as well as Big data, virtual reality opens up the doors for Zalando to  offer more personalized product offerings as well as virtual at home showroom experience. 
+The *technological* environment: new advancements made in the areas of Artificial Intelligence and Machine Learning as well as Big data, virtual reality opens up the doors for Zalando to  offer more personalized product offerings as well as virtual at home showroom experience. 
 
-The legal environment: since Zalando deals with customer’s online data, GDPR legal impacts must be considered. 
+The *legal* environment: since Zalando deals with customer’s online data, GDPR legal impacts must be considered. 
 
-The natural (environmental) environment: On the platform side perhaps it has not much impact on Zalando, but in terms of the private labels or the partner brands they must take into account the more environmentally aware customers. 
+The *natural (environmental)* environment: On the platform side perhaps it has not much impact on Zalando, but in terms of the private labels or the partner brands they must take into account the more environmentally aware customers. 
 
 To use Porter’s five forces, we know that the online retail platform is at the core of Zalando’s business which other services are based around. So, we apply analysis on this platform.
 
-The threat of new entrants: Zalando's power is in a strong customer base which is difficult for new entrants to get. Low risk here. 
-The threat of substitutes: current available substitutes are Boozt or Amazon or local platforms, and there is a slight chance of customers switching.
-The bargaining power of suppliers: it is low as currently they have over 3000 brands and partners, but for traditional famous and luxury brands they may have more power and this must be considered in contract’s terms.
-The bargaining power of customers: in terms of platform their bargaining power will be to switch to other competitors which is currently slim.
-The strength of competitive rivalry: Amazon has all resources to position themselves in direct competition, Zalando needs to differentiate from Zalando by for example focusing only on clothes and apparels. 
+- The threat of new entrants: Zalando's power is in a strong customer base which is difficult for new entrants to get. Low risk here. 
+- The threat of substitutes: current available substitutes are Boozt or Amazon or local platforms, and there is a slight chance of customers switching.
+- The bargaining power of suppliers: it is low as currently they have over 3000 brands and partners, but for traditional famous and luxury brands they may have more power and this must be considered in contract’s terms.
+- The bargaining power of customers: in terms of platform their bargaining power will be to switch to other competitors which is currently slim.
+- The strength of competitive rivalry: Amazon has all resources to position themselves in direct competition, Zalando needs to differentiate from Zalando by for example focusing only on clothes and apparels. 
 
 Critical success factors seem to be ease of use of platform, fast delivery, easy and free returns, partnership with as many different brands as possible. 
 
@@ -103,9 +107,9 @@ Zalando can use the ‘Market-Buildup’ method to estimate business buyers for 
 
 Multiple-factor-index can be used to estimate area market potential for the new countries they want to enter. Such an index assigns different factors different weights. The factors useful in Zalando’s case might be the disposable income, e-commercial sales and e-commerce fashion sales in the region. 
 
-We assume based on the information collected the corporate strategy used as input for strategic marketing plan is to keep the leadership position in currently operating countries in e-commerce retail apparel business as well as geographical expansion to portugal for their online retail platform. 
+*We assume based on the information collected the corporate strategy used as input for strategic marketing plan is to keep the leadership position in currently operating countries in e-commerce retail apparel business as well as geographical expansion to portugal for their online retail platform.* 
 
-The new features to be introduced are more AI based personalized offerings and automated style advisor as well as virtual at home showrooms.
+*The new features to be introduced are more AI based personalized offerings and automated style advisor as well as virtual at home showrooms.*
 
 <figure>
   <img src="/images/GDP.PNG" alt="Marketing insights" style="margin-left: 25%; width:50%">
@@ -128,17 +132,17 @@ For segmentation regarding new B2B service offerings (which we don’t focus on 
 For new features marketing, they can rely on the current customers which already use the platform or use the personal stylists.
 
 Segmentation for new markets they want to enter (Portugal):
-Demographic
-Age
-income
-Working class
-Product category
-Luxury
-Mainstream
-local
-Social
-Internet savvy
-Online shopping
+- Demographic
+-- Age
+-- Income
+- Working class
+- Product category
+--Luxury
+--Mainstream
+--local
+-Social
+--Internet savvy
+--Online shopping
 
 Zalando has never operated in Portugal and only has access to public data, so it has to rely on the generic segmentation criterias at the beginning. However, it can reuse some trends found in countries with similar cultures and attitudes. For example, data gained in Spain can be used to create narrower segments. Portugees resonate with Spanish a lot!
 
@@ -147,11 +151,11 @@ Zalando has never operated in Portugal and only has access to public data, so it
 
 For service business the target segment is: small-mid size brands, located in one country and operating in other countries, have difficulties with logistics, (medium to large order size/brand size), do not have a strong customer base and data for marketing. The criterias for segment targeting are:  
 
-The segment is measurable: Zalando knows exactly which brands fall into this category from its own platform data. 
-Substantial and growing market: They are small and mid size or local brands, they have potential for growth, and Zalando platform and logistics, delivery and marketing and design advice can help them grow even faster
-Easily accessible: they are already working with each other, so it will be modify buy
-Segment is differentiable: they are in the same business as Zalando, they have the need for fashion related logistics and expertise and marketing capabilities
-Segment is actionable: just let them know about the new services, and they probably come onboard themselves!
+- The segment is measurable: Zalando knows exactly which brands fall into this category from its own platform data. 
+- Substantial and growing market: They are small and mid size or local brands, they have potential for growth, and Zalando platform and logistics, delivery and marketing and design advice can help them grow even faster
+- Easily accessible: they are already working with each other, so it will be modify buy
+- Segment is differentiable: they are in the same business as Zalando, they have the need for fashion related logistics and expertise and marketing capabilities
+- Segment is actionable: just let them know about the new services, and they probably come onboard themselves!
 
 Porter’s five forces can also be applicable. There is significant segment rivalry probably only from Amazon, but since it is not focused on fashion and Zalando and these brands work together, it seems no major threat from Amazon should be assumed. It takes a lot of customer base and data and infrastructure to enter this market which is not easy. 
 
@@ -168,20 +172,20 @@ We divide the branding and positioning strategy into the two different areas con
 
 Brand Resonance Model can be used to identify different elements to build the brand to enter Portugal as a new market. 
  
-Brand salience: as Portugal is a new market people might not be aware about Zalando. However, they might have heard it and even be waiting for it to start operating in Portugal as they might have heard it from friends outside the country.
-Brand performance: as they have a large customer base in other countries and have grown it over time, we can say that they have performed well enough and this may continue in Portugal as well. 
-Brand imagery: in my mind as a customer the extrinsic values of Zalando is clear to be fast delivery, easy shopping feeling and free return.
-Brand judgements: again myself as a customer quite satisfied with the service received from Zalando.
-Brand feelings: maybe not that much related as there must not be that much emotional attachment with the brand.
-Brand resonance: maybe for the customers who value free return there might be resonating with the brand.
+- Brand salience: as Portugal is a new market people might not be aware about Zalando. However, they might have heard it and even be waiting for it to start operating in Portugal as they might have heard it from friends outside the country.
+- Brand performance: as they have a large customer base in other countries and have grown it over time, we can say that they have performed well enough and this may continue in Portugal as well. 
+- Brand imagery: in my mind as a customer the extrinsic values of Zalando is clear to be fast delivery, easy shopping feeling and free return.
+- Brand judgements: again myself as a customer quite satisfied with the service received from Zalando.
+- Brand feelings: maybe not that much related as there must not be that much emotional attachment with the brand.
+- Brand resonance: maybe for the customers who value free return there might be resonating with the brand.
 
 Different elements of the brand can be checked such as url, logo, platform, different services to see how they are perceived in customers (potential customers) minds. We can also examine the platform and services as whole as a brand element itself:
-Memorable: I can judge myself as whenever I have to do shopping the first option coming to my mind is Zalando.
-Meaningful: for people who want easy comparison of different brands and do not want to go to shopping malls, the brand is quite meaningful.
-Likable: not very much applicable for the generic crowd but for those who use the personal stylists or fashion advice it might be more applicable.
-Transferable: it is easily transferable, for example in this case just with minor modifications of the website to local language the whole brand can be transferred to Portugal.
-Adaptable: it is adaptable in the sense that easily new brands can be onboarded, enter new segments, add new categories, etc. 
-Protectable: some elements of the brand are legally protectable such as the logo, private labels and trademarks. 
+- Memorable: I can judge myself as whenever I have to do shopping the first option coming to my mind is Zalando.
+- Meaningful: for people who want easy comparison of different brands and do not want to go to shopping malls, the brand is quite meaningful.
+- Likable: not very much applicable for the generic crowd but for those who use the personal stylists or fashion advice it might be more applicable.
+- Transferable: it is easily transferable, for example in this case just with minor modifications of the website to local language the whole brand can be transferred to Portugal.
+- Adaptable: it is adaptable in the sense that easily new brands can be onboarded, enter new segments, add new categories, etc. 
+- Protectable: some elements of the brand are legally protectable such as the logo, private labels and trademarks. 
 
 <figure>
   <img src="/images/competitor-analysis-1.PNG" alt="Competitor analysis" style="margin-left: 15%; width:70%">
@@ -196,8 +200,8 @@ Protectable: some elements of the brand are legally protectable such as the logo
 </figure>
 
 Two perceptual maps are introduced here. One shows easy/free return versus specialized in clothing and fashion. The other one is fast delivery versus specialized in clothing. We can see tha Zalando can differentiate itself from the competition :
-Fast delivery 
-Free and easy return
+- Fast delivery 
+- Free and easy return
 
 We can think of these as the supplementary added value to the core services that are more or less provided by all competitors. Such core services are the ability to compare different brands, large number of brands and easy/smooth shopping.
 Finally the brand mantra can be stated as: 
@@ -235,14 +239,14 @@ One of the reasons for such a trend shift during these times is that people have
 Integrated marketing mix deals with all encounters of the customers with different parts of the business and tries to build up the desired perception of the business and brand and differentiated position in the customers' (potential customers) minds. 
 
 Like before the focus is on the online retail platform. The corporate strategy goal was: 
-In currently operating countries with above 5% GDP growth 
-Keeping the leader position
-In currently operating countries with slow economic growth 
-Add new features
-Enter new segments such as new B2B transport service offering (not the scope of this strategic marketing plan) 
-In new entering countries (Portugal)
-Create and raise awareness of the service existence
-Marketing focus on competitive advantage of the service, easy order, payment, delivery and return, fast and home delivery
+- In currently operating countries with above 5% GDP growth 
+--Keeping the leader position
+- In currently operating countries with slow economic growth 
+--Add new features
+--Enter new segments such as new B2B transport service offering (not the scope of this strategic marketing plan) 
+-In new entering countries (Portugal)
+--Create and raise awareness of the service existence
+--Marketing focus on competitive advantage of the service, easy order, payment, delivery and return, fast and home delivery
 
 Zalando mainly offers online retail service to consumers. Services are different from products as they are intangible, perishable, inseparable and variable. Zalando falls into the service category of tangible goods with accompanying service as it has to deliver the goods from other brands through their service to customers. 
 
@@ -316,40 +320,40 @@ In the long run, they need to prepare the infrastructure to handle this increase
 Zalando goal is to engage more customers to use the new features and increase awareness in Portugal and onboard more customers. Different strategic and operational metrics and control plans could be implemented to track the success in reaching these goals.
 
 Strategic goals:
-Market share per country of operation
-Number of partner brands
-Number of customers
-Profit
-Sales
-Number of users using new features 
+- Market share per country of operation
+- Number of partner brands
+- Number of customers
+- Profit
+- Sales
+- Number of users using new features 
 
 The operational metrics to monitor particularly important for Zalando could be as follows in different categories.
 
 Platform use process:
-Number of website visits
-Add to basket
-Number of item buys
-Add Card number
-Percentage of use of different payment methods
-Time spent for search
-Number of visits before buy
+- Number of website visits
+- Add to basket
+- Number of item buys
+- Add Card number
+- Percentage of use of different payment methods
+- Time spent for search
+- Number of visits before buy
 Inventory/Warehouse to delivery:
-Time from order to packaging
-Time from order to delivery
-Customer feedback on delivery status
+- Time from order to packaging
+- Time from order to delivery
+- Customer feedback on delivery status
 Returns:
-Percentage of returns
-Brands of returns
-Feedback on returns
+- Percentage of returns
+- Brands of returns
+- Feedback on returns
 Brand partners to warehouse transport:
-Time from order to receive in Zalando inventory
+- Time from order to receive in Zalando inventory
 
 Metrics to follow up on success rate of marketing promotions also need to be tracked:
-Percentage of social media to website visits
-Impact of discounts
-Impact of bonus and coupons
-Blog reads
-Impact of influencers and celebrities
+- Percentage of social media to website visits
+- Impact of discounts
+- Impact of bonus and coupons
+- Blog reads
+- Impact of influencers and celebrities
 
 Also, change introduces its own risks. Now Zalando wants to go through two major changes. One is the introduction of features that are new across industry and one is entering Portugal. These both could impose operational and strategic marketing risks. The likelihood of success of these changes must be considered and make sure the impact of failure is justifiable in terms of cost and most importantly the brand image in the minds of customers. 
 
@@ -359,9 +363,10 @@ All the above mentioned metrics to control will be useful also for this trend sh
 
 
 References:
-https://en.wikipedia.org/wiki/List_of_European_countries_by_population
-https://corporate.zalando.com/en?market=se
-https://craft.co/zalando/competitors
+- https://en.wikipedia.org/wiki/List_of_European_countries_by_population
+- https://corporate.zalando.com/en?market=se
+- https://craft.co/zalando/competitors
+
 
 
 
