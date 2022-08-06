@@ -8,7 +8,7 @@ unsafe= true
 [params]
 env = "production"
 disableThemeToggle = true
-defaultTheme = 'dark'
+defaultTheme = 'light'
 [params.assets]
 disableFingerprinting = true
 
