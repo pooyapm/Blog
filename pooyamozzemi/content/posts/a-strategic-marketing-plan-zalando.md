@@ -1,6 +1,7 @@
 ---
 title: "A Strategic Marketing Plan: Zalando"
 date: 2022-08-01T20:11:53+02:00
+category: "Product Management"
 ---
 
 # Section 1: Analysis
