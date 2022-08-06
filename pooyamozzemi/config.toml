@@ -7,7 +7,6 @@ relativeURLs = true
 unsafe= true
 [params]
 env = "production"
-disableThemeToggle = true
 defaultTheme = 'light'
 [params.assets]
 disableFingerprinting = true
