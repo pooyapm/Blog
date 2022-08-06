@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = "Pooya Mozzemi' Blog"
 theme = 'hugo-PaperMod'
 disableThemeToggle = true
-defaultTheme = 'light'
+defaultTheme = 'dark'
 relativeURLs = true
 [markup.goldmark.renderer]
 unsafe= true
