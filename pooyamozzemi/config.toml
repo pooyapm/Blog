@@ -2,13 +2,13 @@ baseURL = 'https://pooyapm.github.io/'
 languageCode = 'en-us'
 title = "Pooya Mozzemi' Blog"
 theme = 'hugo-PaperMod'
-disableThemeToggle = true
-defaultTheme = 'dark'
 relativeURLs = true
 [markup.goldmark.renderer]
 unsafe= true
 [params]
 env = "production"
+disableThemeToggle = true
+defaultTheme = 'dark'
 [params.assets]
 disableFingerprinting = true
 
