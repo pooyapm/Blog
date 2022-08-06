@@ -29,5 +29,7 @@ small patterns and building blocks
   <figcaption style="text-align:center">The first move.</figcaption>
 </figure>
 
+use small patterns to build larger patterns
+
 
 
