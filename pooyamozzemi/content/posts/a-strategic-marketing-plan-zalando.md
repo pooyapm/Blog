@@ -202,13 +202,13 @@ Two perceptual maps are introduced here. One shows easy/free return versus speci
 We can think of these as the supplementary added value to the core services that are more or less provided by all competitors. Such core services are the ability to compare different brands, large number of brands and easy/smooth shopping.
 Finally the brand mantra can be stated as: 
 
-All your favorite brands at your door, with one click! Return, if you don’t like!
+***All your favorite brands at your door, with one click! Return, if you don’t like!***
 
 For the new personalized AI based offering and stylist, this is an innovative solution and probably Zalando will be the pioneer offering such service. It can be offered to current customers of the platform to increase the sales or even attract new customers and decrease unnecessary returns which impose a lot of burden on the company. 
 
 The brand mantra for this new feature can be stated as:
 
-Your personal stylist, true feeling of happiness!
+***Your personal stylist, true feeling of happiness!***
 
 For this new feature, perhaps brand revitalization and reinforcement might be needed since it is new and customers are not aware of it. 
 

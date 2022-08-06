@@ -2,6 +2,7 @@ baseURL = 'https://pooyapm.github.io/'
 languageCode = 'en-us'
 title = "Pooya Mozzemi' Blog"
 theme = 'hugo-PaperMod'
+defaultTheme = 'light'
 relativeURLs = true
 [markup.goldmark.renderer]
 unsafe= true
