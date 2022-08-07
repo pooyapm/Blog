@@ -20,23 +20,23 @@ weight = 10
 [[menu.main]]
 identifier = "Soft Skills"
 name = "Soft Skills"
-url = "/Soft Skills/"
+url = "/Soft-Skills/"
 weight = 20
 
 [[menu.main]]
 identifier = "Business Management"
 name = "Business Management"
-url = "/Business Management/"
+url = "/Business-Management/"
 weight = 30
 
 [[menu.main]]
 identifier = "Product Management"
 name = "Product Management"
-url = "/Product Management/"
+url = "/Product-Management/"
 weight = 40
 
 [[menu.main]]
 identifier = "About Me"
 name = "About Me"
-url = "/About Me/"
+url = "/About-Me/"
 weight = 60
