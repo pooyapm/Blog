@@ -14,29 +14,29 @@ disableFingerprinting = true
 [[menu.main]]
 identifier = "Technology"
 name = "Technology"
-url = "/Technology/"
+url = "/technology/"
 weight = 10
 
 [[menu.main]]
 identifier = "Soft Skills"
 name = "Soft Skills"
-url = "/Soft-Skills/"
+url = "/soft-skills/"
 weight = 20
 
 [[menu.main]]
 identifier = "Business Management"
-name = "Business Management"
+name = "business management"
 url = "/Business-Management/"
 weight = 30
 
 [[menu.main]]
 identifier = "Product Management"
 name = "Product Management"
-url = "/Product-Management/"
+url = "/product-management/"
 weight = 40
 
 [[menu.main]]
 identifier = "About Me"
 name = "About Me"
-url = "/About-Me/"
+url = "/about-me/"
 weight = 60
