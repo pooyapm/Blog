@@ -1,6 +1,8 @@
 ---
 title: "How to Solve Chess Puzzles"
 date: 2022-07-27T22:27:25+02:00
+categories: ["Soft Skills"]
+tags: ["pooya mozzemi","pooya moazzeni"]
 ---
 
 Have you ever seen a chess puzzle in a position you don't know what to do or where to start thinking 
