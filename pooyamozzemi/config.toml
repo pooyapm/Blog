@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = "Pooya Mozzemi' Blog"
 theme = 'hugo-PaperMod'
 relativeURLs = true
+
 [markup.goldmark.renderer]
 unsafe= true
 [params]
@@ -15,7 +16,7 @@ disableFingerprinting = true
 [[menu.main]]
 identifier = "Technology"
 name = "Technology"
-url = "./technology/"
+url = "categories/technology/"
 weight = 10
 
 [[menu.main]]
@@ -27,17 +28,17 @@ weight = 20
 [[menu.main]]
 identifier = "Business Management"
 name = "Business Management"
-url = "./business-management/"
+url = "categories/business-management/"
 weight = 30
 
 [[menu.main]]
 identifier = "Product Management"
 name = "Product Management"
-url = "./product-management/"
+url = "categories/product-management/"
 weight = 40
 
 [[menu.main]]
 identifier = "About Me"
 name = "About Me"
-url = "./about-me/"
+url = "categories/about-me/"
 weight = 60

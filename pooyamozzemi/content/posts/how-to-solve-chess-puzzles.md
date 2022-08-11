@@ -1,8 +1,8 @@
 ---
-title: "How to Solve Chess Puzzles"
-date: 2022-07-27T22:27:25+02:00
+title: "How to Solve Chess Puzzles?"
+author: "Pooya Mozzemi"
 categories: ["Soft Skills"]
-tags: ["pooya mozzemi","pooya moazzeni"]
+tags: ["pooya mozzemi","pooya moazzeni", "problem solving", "how to solve puzzles", "solve chess puzzles"]
 ---
 
 Have you ever seen a chess puzzle in a position you don't know what to do or where to start thinking 
@@ -32,6 +32,51 @@ small patterns and building blocks
 </figure>
 
 use small patterns to build larger patterns
+
+Hook
+Overview of problem solving
+Pattern recognition beings
+Working memory capacity and its role in problem solving, so patterns are important
+Known patterns 
+First objective, experience from known patterns helps you here to identify the patterns
+Helps to identify small patterns
+Importance of the learning process on the side
+Check for small patterns
+Look for weaknesses
+Same row
+Same column
+Unprotected
+Less supported pieces
+Forks
+Trapped
+Look for supported 
+Squares
+Columns
+Rows
+Diagonals
+Combine the moves to come up with a bigger pattern
+How after one move opponent will defend
+Which is supported
+Squares
+Columns
+Rows
+Diagonals
+Pieces
+When move to a new position
+What is supported
+New small patterns from new positions  
+Rearrange the moves
+
+Example must:
+Different possible objectives
+One objective must not work
+Learning must help to guess possible small patterns
+Different small patterns
+Weakness must help to identify small pattern 
+One arrange must be defended
+Second arrange can work
+One picture of all working togther
+
 
 
 

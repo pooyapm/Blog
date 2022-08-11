@@ -1,8 +1,8 @@
 ---
 title: "A Strategic Marketing Plan: Zalando"
-date: 2022-08-01T20:11:53+02:00
+author: "Pooya Mozzemi"
 categories: ["Business Management"]
-tags: ["pooya mozzemi","pooya moazzeni"]
+tags: ["pooya mozzemi","pooya moazzeni", "business manaement", "strategic marketing plan"]
 ---
 
 # Section 1: Analysis
