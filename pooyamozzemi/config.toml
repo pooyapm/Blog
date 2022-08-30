@@ -16,6 +16,14 @@ defaultTheme = 'light'
 title = "Welcome to my blog :wave:"
 content = "This is Pooya. Here I write about the frameworks, concepts and principles I have developed over the years. I also document my new learnings and findings and solutions to problems which may be your problems too. I hope you find it helpful."
 
+[[params.socialIcons]]
+name = "Paypal"
+url = "https://paypal.me/pooyapm"
+
+[[params.socialIcons]]
+name = "Pf"
+url = "twitter.com"
+
 [params.assets]
 disableFingerprinting = true
 
@@ -46,5 +54,5 @@ weight = 40
 [[menu.main]]
 identifier = "About Me"
 name = "About Me"
-url = "posts/about-me/"
+url = "about-me/about-me/"
 weight = 60

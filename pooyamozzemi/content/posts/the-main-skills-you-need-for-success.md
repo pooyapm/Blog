@@ -4,4 +4,21 @@ author: "Pooya Mozzemi"
 categories: ["Soft Skills"]
 tags: ["pooya mozzemi","pooya moazzeni", "soft skills", "problem solving", "learning", "communication"]
 ---
-Hi, the main skills you need for success are here.
+
+why you need skills
+
+how businesses and wealth and power generation works
+
+succesful people possess common skills
+
+learning
+why learning
+high level learning
+
+problem solving
+why problem solving
+high level problem solving
+
+communication
+why communication
+high level communication

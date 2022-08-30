@@ -45,7 +45,7 @@ The organization is large and IT and logistics are the core competence of the wh
 SWOT analysis can confirm the company’s favorable position.
 
 <figure>
-  <img src="/images/SWOT.PNG" alt="SWOT analysis" style="margin-left: 5%; width:90%">
+  <img src="/images/strategic-marketing-plan/SWOT.PNG" alt="SWOT analysis" style="margin-left: 5%; width:90%">
   <figcaption style="text-align:center">SWOT analysis.</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ The main data to capture to keep the current customer base in operating countrie
  
 
 <figure>
-  <img src="/images/marketing-insight.PNG" alt="Marketing insights" style="margin-left: 5%; width:90%">
+  <img src="/images/strategic-marketing-plan/marketing-insight.PNG" alt="Marketing insights" style="margin-left: 5%; width:90%">
   <figcaption style="text-align:center">Marketing insights.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Multiple-factor-index can be used to estimate area market potential for the new 
 **The new features to be introduced are more AI based personalized offerings and automated style advisor as well as virtual at home showrooms.**
 
 <figure>
-  <img src="/images/GDP.PNG" alt="Marketing insights" style="margin-left: 25%; width:50%">
+  <img src="/images/strategic-marketing-plan/GDP.PNG" alt="Marketing insights" style="margin-left: 25%; width:50%">
   <figcaption style="text-align:center">GDP per capita for European countries.</figcaption>
 </figure>
 
@@ -186,13 +186,13 @@ Different elements of the brand can be checked such as url, logo, platform, diff
 - Protectable: some elements of the brand are legally protectable such as the logo, private labels and trademarks. 
 
 <figure>
-  <img src="/images/competitor-analysis-1.PNG" alt="Competitor analysis" style="margin-left: 15%; width:70%">
+  <img src="/images/strategic-marketing-plan/competitor-analysis-1.PNG" alt="Competitor analysis" style="margin-left: 15%; width:70%">
   <figcaption style="text-align:center">Competitor analysis based on two features. The first feature is the
   specializing in clothing. The second feature is free/easy return.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/competitor-analysis-2.PNG" alt="cmpetitor analysis 2" style="margin-left: 15%; width:70%">
+  <img src="/images/strategic-marketing-plan/competitor-analysis-2.PNG" alt="cmpetitor analysis 2" style="margin-left: 15%; width:70%">
   <figcaption style="text-align:center">Competitor analysis based on two features. The first feature is the
   specializing in clothing. The second feature is fast delivery.</figcaption>
 </figure>
