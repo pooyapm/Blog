@@ -3,6 +3,7 @@ title: "How to Solve Chess Puzzles?"
 author: "Pooya Mozzemi"
 categories: ["Soft Skills"]
 tags: ["pooya mozzemi","pooya moazzeni", "problem solving", "how to solve puzzles", "solve chess puzzles"]
+weight : 2
 ---
 
 Have you ever seen a chess puzzle that you don't know what to do in that position? or not knowing where to start thinking 

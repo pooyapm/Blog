@@ -3,6 +3,7 @@ title: "A Strategic Marketing Plan: Zalando"
 author: "Pooya Mozzemi"
 categories: ["Business Management"]
 tags: ["pooya mozzemi","pooya moazzeni", "business manaement", "strategic marketing plan"]
+weight : 1
 ---
 
 # Section 1: Analysis
